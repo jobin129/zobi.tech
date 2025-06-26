@@ -65,7 +65,7 @@ npm install
 ### 📱 Termux Method
 
 ```bash
-pkg update && pkg upgrade -y && pkg install git nodejs ffmpeg libwebp imagemagick && git clone https://github.com/Bhayazk/zobi.tech && cd zobi.tech && npm install
+pkg update && pkg upgrade -y && pkg install git nodejs ffmpeg libwebp imagemagick && git clone https://github.com/jobin129/zobi.tech && cd zobi.tech && npm install
 ```
 
 ### 🖥️ Linux / Ubuntu Method
@@ -80,7 +80,7 @@ sudo apt update && sudo apt upgrade -y && sudo apt install git nodejs ffmpeg lib
 
 > After pairing the bot using [this link](https://pair-site-af6b75949fa8.herokuapp.com/pair):
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/Bhayazk/zobi.tech/archive/refs/heads/main.zip)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/jobin129/zobi.tech/archive/refs/heads/main.zip)
 
 1. Copy the **Session ID**.
 2. Open the `settings.js` file inside the `zobi.tech` folder.
